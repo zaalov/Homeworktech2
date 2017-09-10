@@ -14,7 +14,7 @@ public class Homeworktech2 {
         System.out.println(("Отлично " + line)  +";) давайте проверим информацию:\n"  );
         System.out.printf(" Имя:     %s \n Город:   %s \n Возраст: %s лет \n Адрес:   %s \n ", line , line1 , old , line2 );
         System.out.println("-------------------------------------------------"); // первая часть задания
-        System.out.println("Участника опроса зовут " + line + ", живёт в городе - " + line1 + ". Его  возраст " + old + " лет, проживает по адресу " + line2 );
+        System.out.println("Участника зовут " + line + ", живёт в городе - " + line1 + ". Его  возраст " + old + " лет, проживает по адресу " + line2 );
         System.out.println("-------------------------------------------------"); // вторая часть задания
         System.out.println(line + " - Имя" );
         System.out.println(line1  + " - Город");
